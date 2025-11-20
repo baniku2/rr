@@ -1,4 +1,4 @@
-name: dimas RDP
+name: dimas RDPe
 
 on:
   workflow_dispatch:
